@@ -1,5 +1,6 @@
 ECB - Version 1.0
-A novel dynamic simulation model of an Electric City Bus (ECB)  for MATLAB.
+
+A novel dynamic simulation model of an Electric City Bus (ECB) for MATLAB.
 
 Copyright 2016-2017, Jari Vepsäläinen and Klaus Kivekäs, all rights reserved.
 
