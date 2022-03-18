@@ -13,5 +13,23 @@ HOW TO USE
    
 2. To run the model and plot the model responses Run the scrip ECB_run.m
 
+## Please reference if you use it in your work:
+
+Vepsäläinen, Jari, Klaus Kivekäs, Kevin Otto, Antti Lajunen, and Kari Tammi. "Development and validation of energy demand uncertainty model for electric city buses." Transportation Research Part D: Transport and Environment 63 (2018): 347-361.
+
+### BibTex
+
+```
+@article{vepsalainen2018,
+  title={Development and validation of energy demand uncertainty model for electric city buses},
+  author={Veps{\"a}l{\"a}inen, Jari and Kivek{\"a}s, Klaus and Otto, Kevin and Lajunen, Antti and Tammi, Kari},
+  journal={Transportation Research Part D: Transport and Environment},
+  volume={63},
+  pages={347--361},
+  year={2018},
+  publisher={Elsevier}
+}
+```
+
 
 
